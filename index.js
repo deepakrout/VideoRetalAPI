@@ -7,8 +7,11 @@ const movies = require("./routes/movies");
 const rentals = require("./routes/rentals");
 const users = require("./routes/users");
 const auth = require("./routes/auth");
+const error = require('./middleware/error');
+// const winston = require('winston');
 const config = require("config");
 const express = require("express");
+require('express-async-errors');
 const app = express();
 
 if (!config.get("jwtPrivateKey")) {
@@ -33,6 +36,8 @@ app.use("/api/movies", movies);
 app.use("/api/rentals", rentals);
 app.use("/api/users", users);
 app.use("/api/auth", auth);
+
+app.use(error);
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => console.log(`Listening on port ${port}...`));
