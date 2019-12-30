@@ -60,3 +60,189 @@
   label: 'Vidly App!',
   timestamp: '2019-12-26T16:33:57.824Z'
 }
+{
+  level: 'error',
+  message: 'Somthing went wrongSomthing went wrong',
+  stack: 'Error: Somthing went wrong\n' +
+    '    at Object.<anonymous> (/Users/deepakrout/Home/nodeExpressApiProjects/nodeAuth/index.js:33:7)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Function.Module.runMain (internal/modules/cjs/loader.js:999:10)\n' +
+    '    at internal/main/run_main_module.js:17:11',
+  label: 'Vidly App!',
+  timestamp: '2019-12-26T23:47:06.795Z'
+}
+{
+  level: 'error',
+  message: 'Somthing went wrongSomthing went wrong',
+  stack: 'Error: Somthing went wrong\n' +
+    '    at Object.<anonymous> (/Users/deepakrout/Home/nodeExpressApiProjects/nodeAuth/index.js:33:7)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Function.Module.runMain (internal/modules/cjs/loader.js:999:10)\n' +
+    '    at internal/main/run_main_module.js:17:11',
+  label: 'Vidly App!',
+  timestamp: '2019-12-26T23:47:15.343Z'
+}
+{
+  level: 'error',
+  message: 'Something failed!Something failed!',
+  stack: 'Error: Something failed!\n' +
+    '    at Object.<anonymous> (/Users/deepakrout/Home/nodeExpressApiProjects/nodeAuth/index.js:38:26)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Function.Module.runMain (internal/modules/cjs/loader.js:999:10)\n' +
+    '    at internal/main/run_main_module.js:17:11',
+  label: 'Vidly App!',
+  timestamp: '2019-12-26T23:53:33.699Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T00:54:01.694Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T00:57:23.752Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T00:59:57.085Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:00:12.947Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:00:27.351Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:01:42.315Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:02:05.643Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:02:16.047Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:02:24.162Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:02:59.654Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:03:43.584Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:03:45.863Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:04:29.171Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:04:44.361Z'
+}
+{
+  message: 'Listening on port 3000...',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:05:17.844Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:05:18.042Z'
+}
+{
+  message: 'Listening on port 3000...',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:06:55.225Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:06:55.474Z'
+}
+{
+  message: 'Listening on port 3000...',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:07:00.752Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:07:01.002Z'
+}
+{
+  message: 'Listening on port 3000...',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:09:32.439Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:09:32.731Z'
+}
+{
+  message: 'Listening on port 3000...',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:11:59.132Z'
+}
+{
+  message: 'Connected to MongoDB....',
+  level: 'info',
+  label: 'Vidly App!',
+  timestamp: '2019-12-27T01:11:59.459Z'
+}

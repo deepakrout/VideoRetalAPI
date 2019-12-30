@@ -4,7 +4,7 @@ const express = require('express');
 const auth = require('../middleware/auth');
 const admin = require('../middleware/admin');
 const asyncMiddleware = require('../middleware/async');
-const logger = require('../middleware/logger');
+const logger = require('../startup/logger');
 const router = express.Router();
 
 // Ways to async middleware 

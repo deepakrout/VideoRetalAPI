@@ -1,4 +1,5 @@
 {
     "jwtPrivateKey": "VIDLY_JWT_PRIVATE_KEY",
-    "dbConnection": "DEV_CONN_STRING"
+    "dbConnection": "DEV_CONN_STRING",
+    "loggerDbConnection": "DEV_LOGGER_CONN_STRING"
 }
